@@ -1,0 +1,52 @@
+.app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.Header{
+    background-color: green;
+    height: 100px;
+    width: 1200px;
+    margin: 25px;
+}
+
+.Navigation{
+    background-color: blue;
+    height: 500px;
+    width: 150px;
+    margin-right: 25px;
+    margin-top: 25px;
+}
+
+.contentContainer{
+    display: flex;
+}
+
+.Main{
+    width: 950px;
+    height: 650px;
+    background-color: red;
+    margin-top: 25px;
+    margin-left: 25px;
+    padding: 25px;
+}
+
+.mainContentContainer{
+    display: flex;
+}
+
+.SubContents{
+    background-color: yellow;
+    height: 400px;
+    width: 275px;
+    margin: 25px;
+}
+
+.Advertisement{
+    background-color: purple;
+    width: 900px;
+    height: 150px;
+    margin: 25px;
+}
