@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+
+.todoItem{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
